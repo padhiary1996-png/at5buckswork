@@ -6,5 +6,5 @@ export const SITE_CONFIG = {
     projectId: "at5buckswork",
     appId: "1:549032651295:web:65d9ac28bfb8fbdeb3c32a"
   },
-  appsScriptUrl: "PASTE_YOUR_DEPLOYED_APPS_SCRIPT_WEB_APP_URL_HERE"
+  appsScriptUrl: "https://script.google.com/macros/s/AKfycbz9jcKC3GJsDHSjt7vcjz_ZOh3SiLC7kdNPlmhfKJGiSGEBJVxGaslzKeexkh_XZdRKWA/exec"
 };
